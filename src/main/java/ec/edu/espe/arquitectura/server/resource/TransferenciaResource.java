@@ -11,4 +11,6 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class TransferenciaResource {
     private final TransferenciaService service;
+    
+    
 }
